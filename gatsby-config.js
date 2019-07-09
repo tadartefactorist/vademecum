@@ -21,4 +21,21 @@ module.exports = {
       },
     ],
   },
+  // Customize your site metadata:
+  siteMetadata: {
+    title: "Vademecum",
+    author: "tad",
+    description: "mon carnet de lectures et de notes.",
+    siteUrl: "https://amberley.blog/",
+    social: [
+      {
+        name: "twitter",
+        url: "https://twitter.com/tadeus",
+      },
+      {
+        name: "github",
+        url: "https://github.com/tadartefactorist",
+      },
+    ],
+  },
 }
